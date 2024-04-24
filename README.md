@@ -8,7 +8,6 @@
 * The focus of this project is to either:
   1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
   2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
      
 * Write a paper/report in Markdown using Zotero citations.
 

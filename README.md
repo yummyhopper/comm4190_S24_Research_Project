@@ -1,25 +1,9 @@
-# COMM4190 Spring 2024 - Research Project
+# Automated Email Marketing Using LLMs
 
-* Use this repository for your Research Project
+In this project I use AI to generate highly personalized email marketing messages for a host of sample customers. The program integrates with a test Shopify development store and Klaviyo an email marketing campaign management software to incorporate real-time customer data to the program. I then add several variable attributes to the customer data such a CLV, up-sales propensity, and recommended incentive. I did this randomly, but any of these attributes could be projects in themselves. Next, I created a function to scrape all this data from Klaviyo and deliver it in a python dictionary from which I could pull these variables into my LangChain prompt. Finally, I was able to integrate unique customer data to generate 14 highly personalized emails for each sample customer. 
 
+### The Contents of This Repo
 
-### Overview
-
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
-     
-* Write a paper/report in Markdown using Zotero citations.
-
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
-
+- Blogs: Contains four blog posts outlining my journey from beginning to end in this project. Go here if you're most interested in my thought process and direction throughout the project
+- Essay: Contains a mini white paper summarizing the opportunities for this sort of LLM use case and analyzing how this might be integrated. Go here if your most interested in the theoretical propositions of this project and a consideration of the scope of the opportunity
+- Project: Contains the final simplified Python code used in this project. If you're most interested in a python template or evaluating my programming skills this is the one for you.

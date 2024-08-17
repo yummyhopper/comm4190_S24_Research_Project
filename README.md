@@ -2,6 +2,8 @@
 
 ![](ROW-15-email-marketing-templates.avif)
 
+### Introduction
+
 In this project I use AI to generate highly personalized email marketing messages for a host of sample customers. The program integrates with a test Shopify development store and Klaviyo an email marketing campaign management software to incorporate real-time customer data to the program. I then add several variable attributes to the customer data such a CLV, up-sales propensity, and recommended incentive. I did this randomly, but any of these attributes could be projects in themselves. Next, I created a function to scrape all this data from Klaviyo and deliver it in a python dictionary from which I could pull these variables into my LangChain prompt. Finally, I was able to integrate unique customer data to generate 14 highly personalized emails for each sample customer. 
 
 ### Contents

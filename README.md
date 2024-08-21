@@ -24,7 +24,6 @@ The data used for this project contains basic order details such as customer att
 
 - Python
 - LangChain
-- Klayvio API
-- Shopify API
-- Shopify Development Stores
+- Klayvio
+- Shopify
 - Prompt Engineering
